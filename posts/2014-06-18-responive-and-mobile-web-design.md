@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Responsive & Mobile Design"
+title:  Responsive & Mobile Design
 date:   2014-06-18 04:07:49
 categories: Frontend Development
 banner_image: "/media/mobile.jpg"

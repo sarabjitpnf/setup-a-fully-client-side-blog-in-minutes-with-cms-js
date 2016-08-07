@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Social Profiles"
+title:  Social Profiles
 date:   2014-06-22 04:07:49
 categories: Social Networking
 banner_image: ""

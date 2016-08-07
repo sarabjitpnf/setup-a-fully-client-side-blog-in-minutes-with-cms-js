@@ -1,5 +1,5 @@
 ---
-title:  "Getting Started with Yeoman & Grunt"
+title:  Getting Started with Yeoman & Grunt
 ---
 
 Does the edit appear when in GitHub mode?

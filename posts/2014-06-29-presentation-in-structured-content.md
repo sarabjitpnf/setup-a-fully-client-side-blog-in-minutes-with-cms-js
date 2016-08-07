@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Presentation In Structured Content"
+title:  Presentation In Structured Content
 date:   2014-06-19 04:07:49
 categories: Frontend Development
 banner_image: "/media/station.jpg"

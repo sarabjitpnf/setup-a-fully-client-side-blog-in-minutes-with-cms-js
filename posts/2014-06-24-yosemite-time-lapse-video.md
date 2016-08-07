@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yosemite Time-lapse Video"
+title:  Yosemite Time-lapse Video
 date:   2014-06-24 04:07:49
 categories: Video
 banner_image: ""
